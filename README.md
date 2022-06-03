@@ -1,5 +1,5 @@
 # server-upd
-testing a backdoor written in python
+Testing a backdoor written in python and C
 
 Teste de comunicação com UDP foi testada com Ncat
 
