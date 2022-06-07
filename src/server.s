@@ -51,7 +51,7 @@ main:
 	call	memset@PLT
 	movw	$2, -1072(%rbp)
 	movl	$0, -1068(%rbp)
-	movl	$8080, %edi
+	movl	$333, %edi
 	call	htons@PLT
 	movw	%ax, -1070(%rbp)
 	leaq	-1072(%rbp), %rcx
